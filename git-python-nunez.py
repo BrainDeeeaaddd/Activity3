@@ -7,3 +7,10 @@ print("May 26, 2001")
 print("Marinduque States College")
 print("BS Information Tech")
 print("2nd year college")
+
+# My Hobbies
+print("Repairing Cellphones")
+print("listening music")
+print("Gaming")
+print("Ride a Motorcycle")
+print("Workout")
